@@ -15,6 +15,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0001-two-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -26,6 +27,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0007-reverse-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +42,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0008-string-to-integer-atoi](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
