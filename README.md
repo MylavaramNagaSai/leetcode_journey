@@ -22,6 +22,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0005-longest-palindromic-substring](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
