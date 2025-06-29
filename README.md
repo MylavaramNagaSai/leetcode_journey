@@ -48,6 +48,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +89,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0018-4sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
