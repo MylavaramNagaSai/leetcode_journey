@@ -11,6 +11,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0011-container-with-most-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0018-4sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
