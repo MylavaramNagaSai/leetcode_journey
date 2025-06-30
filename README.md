@@ -21,6 +21,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0039-combination-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,12 +101,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0027-remove-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +133,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0020-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,4 +151,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0036-valid-sudoku](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
