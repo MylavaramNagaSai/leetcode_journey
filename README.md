@@ -33,6 +33,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0053-maximum-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +198,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0048-rotate-image](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
