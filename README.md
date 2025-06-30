@@ -41,6 +41,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0074-search-a-2d-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0051-n-queens](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +229,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0064-minimum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +255,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
