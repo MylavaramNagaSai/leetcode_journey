@@ -72,6 +72,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0060-permutation-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0049-group-anagrams](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -215,8 +217,13 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0043-multiply-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
