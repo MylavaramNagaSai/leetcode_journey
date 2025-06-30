@@ -30,6 +30,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0051-n-queens](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,12 +131,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0044-wildcard-matching](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
