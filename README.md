@@ -14,6 +14,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0027-remove-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
