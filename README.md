@@ -146,6 +146,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0046-permutations](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0052-n-queens-ii) |
 ## Sorting
 |  |
 | ------- |
