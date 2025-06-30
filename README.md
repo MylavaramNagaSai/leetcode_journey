@@ -20,6 +20,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0037-sudoku-solver](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
