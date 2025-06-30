@@ -110,6 +110,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0065-valid-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0063-unique-paths-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
