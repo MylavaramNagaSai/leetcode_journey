@@ -50,6 +50,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0009-palindrome-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,4 +157,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
