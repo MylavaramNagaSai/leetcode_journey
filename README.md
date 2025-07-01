@@ -84,6 +84,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0009-palindrome-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0050-powx-n) |
@@ -293,6 +294,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
