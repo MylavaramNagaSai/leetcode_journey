@@ -125,6 +125,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0087-scramble-string) |
 ## Greedy
 |  |
 | ------- |
