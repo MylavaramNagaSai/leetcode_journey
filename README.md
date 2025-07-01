@@ -90,6 +90,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -207,6 +208,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0052-n-queens-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
