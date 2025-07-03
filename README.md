@@ -50,6 +50,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0085-maximal-rectangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0090-subsets-ii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
