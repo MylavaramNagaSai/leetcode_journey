@@ -55,6 +55,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -224,6 +225,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0115-distinct-subsequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
