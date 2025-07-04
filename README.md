@@ -113,6 +113,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0096-unique-binary-search-trees) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0044-wildcard-matching](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0060-permutation-sequence) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
@@ -334,6 +336,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0078-subsets](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0090-subsets-ii) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
