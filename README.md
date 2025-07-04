@@ -56,6 +56,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0118-pascals-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0118-pascals-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
