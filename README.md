@@ -58,6 +58,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -443,4 +445,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0127-word-ladder) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
