@@ -232,6 +232,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0120-triangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -358,6 +359,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
 | ------- |
@@ -383,6 +385,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +411,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
