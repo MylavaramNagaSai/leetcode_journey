@@ -369,6 +369,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -395,6 +396,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -421,6 +423,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
