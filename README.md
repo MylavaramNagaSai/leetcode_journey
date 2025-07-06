@@ -169,6 +169,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0125-valid-palindrome](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +245,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0095-unique-binary-search-trees-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
