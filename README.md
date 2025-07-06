@@ -61,6 +61,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -457,4 +459,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
