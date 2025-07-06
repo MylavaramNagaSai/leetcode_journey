@@ -61,6 +61,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0135-candy) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -259,6 +260,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0055-jump-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0135-candy) |
 ## Trie
 |  |
 | ------- |
