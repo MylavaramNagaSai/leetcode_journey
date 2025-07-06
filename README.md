@@ -96,6 +96,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -520,9 +522,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
