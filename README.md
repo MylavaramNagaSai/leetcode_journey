@@ -65,6 +65,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0136-single-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -89,6 +90,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -181,6 +183,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,6 +262,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +278,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +300,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0113-path-sum-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -377,6 +383,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
