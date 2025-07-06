@@ -91,6 +91,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0138-copy-list-with-random-pointer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -111,6 +112,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -229,6 +231,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0086-partition-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
