@@ -123,6 +123,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +225,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +250,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +338,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0075-sort-colors](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
@@ -359,6 +363,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
