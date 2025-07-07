@@ -68,6 +68,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -98,6 +99,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0141-linked-list-cycle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -144,6 +146,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -543,4 +546,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
