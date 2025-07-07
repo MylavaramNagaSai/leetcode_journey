@@ -68,6 +68,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -291,6 +292,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0135-candy) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
 | ------- |
@@ -331,6 +333,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0056-merge-intervals](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0088-merge-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +352,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
