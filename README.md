@@ -69,6 +69,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -147,6 +148,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0089-gray-code](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -357,6 +359,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
