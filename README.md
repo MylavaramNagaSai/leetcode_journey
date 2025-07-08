@@ -108,6 +108,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -157,6 +158,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0096-unique-binary-search-trees](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -216,6 +218,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
 ## Sliding Window
 |  |
 | ------- |
