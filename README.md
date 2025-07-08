@@ -160,6 +160,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0168-excel-sheet-column-title) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -220,6 +221,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0151-reverse-words-in-a-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0168-excel-sheet-column-title) |
 ## Sliding Window
 |  |
 | ------- |
