@@ -374,6 +374,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -556,6 +557,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
