@@ -150,6 +150,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0096-unique-binary-search-trees](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -163,6 +164,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0050-powx-n](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
@@ -409,6 +411,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0059-spiral-matrix-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -423,6 +426,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0090-subsets-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
