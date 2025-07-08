@@ -71,6 +71,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -225,6 +226,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0069-sqrtx](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Divide and Conquer
 |  |
