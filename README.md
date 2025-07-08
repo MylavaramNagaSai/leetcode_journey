@@ -76,6 +76,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0162-find-peak-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -110,6 +111,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -254,6 +256,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -374,6 +377,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0147-insertion-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
@@ -596,4 +600,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0164-maximum-gap) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
