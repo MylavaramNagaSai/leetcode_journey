@@ -73,6 +73,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0152-maximum-product-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -231,6 +232,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Divide and Conquer
 |  |
