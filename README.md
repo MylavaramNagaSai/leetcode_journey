@@ -635,4 +635,5 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0182-duplicate-emails](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
