@@ -619,4 +619,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
