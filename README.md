@@ -77,6 +77,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0164-maximum-gap](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0174-dungeon-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -325,6 +326,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0174-dungeon-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Greedy
 |  |
@@ -429,6 +431,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0079-word-search](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0174-dungeon-game) |
 ## Monotonic Stack
 |  |
 | ------- |
