@@ -399,6 +399,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -517,6 +518,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0129-sum-root-to-leaf-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,6 +548,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0129-sum-root-to-leaf-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -555,6 +558,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0099-recover-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -582,6 +586,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -607,4 +612,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
