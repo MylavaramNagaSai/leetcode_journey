@@ -623,5 +623,6 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
