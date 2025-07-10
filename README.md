@@ -114,6 +114,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0160-intersection-of-two-linked-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -230,12 +231,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0168-excel-sheet-column-title](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -465,6 +468,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0090-subsets-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
@@ -636,4 +640,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0183-customers-who-never-order](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
