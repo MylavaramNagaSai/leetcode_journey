@@ -511,6 +511,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 ## Tree
 |  |
 | ------- |
@@ -541,6 +542,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -571,6 +573,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0144-binary-tree-preorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -598,6 +601,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0127-word-ladder](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 ## Union Find
 |  |
 | ------- |
