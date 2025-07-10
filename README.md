@@ -270,6 +270,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -476,6 +477,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0137-single-number-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0191-number-of-1-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
