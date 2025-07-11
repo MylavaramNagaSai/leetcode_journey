@@ -122,6 +122,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -245,6 +246,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0171-excel-sheet-column-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
