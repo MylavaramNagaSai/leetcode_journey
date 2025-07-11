@@ -83,6 +83,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -178,6 +179,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0172-factorial-trailing-zeroes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -681,4 +683,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
