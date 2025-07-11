@@ -120,6 +120,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0166-fraction-to-recurring-decimal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -175,6 +176,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0171-excel-sheet-column-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -305,6 +307,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0165-compare-version-numbers](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
