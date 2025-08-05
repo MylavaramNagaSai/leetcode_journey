@@ -153,6 +153,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0060-permutation-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
