@@ -124,6 +124,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -250,6 +251,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -376,6 +378,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0014-longest-common-prefix](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -640,6 +643,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
