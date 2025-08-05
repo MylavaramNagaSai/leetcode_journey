@@ -535,6 +535,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0145-binary-tree-postorder-traversal](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 ## Tree
 |  |
 | ------- |
@@ -626,6 +627,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
@@ -643,6 +645,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -706,4 +709,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
