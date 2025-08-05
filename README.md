@@ -84,6 +84,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0198-house-robber](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -259,6 +260,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -717,4 +720,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
