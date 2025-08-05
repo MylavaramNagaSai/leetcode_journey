@@ -257,6 +257,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -464,6 +465,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -710,10 +712,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
