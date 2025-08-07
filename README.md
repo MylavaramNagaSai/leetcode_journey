@@ -91,6 +91,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0216-combination-sum-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -134,6 +135,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -272,6 +274,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0076-minimum-window-substring](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
