@@ -198,6 +198,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -214,6 +215,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0143-reorder-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -269,6 +271,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -472,6 +475,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0150-evaluate-reverse-polish-notation](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
