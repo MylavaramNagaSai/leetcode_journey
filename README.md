@@ -90,6 +90,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -303,6 +304,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0190-reverse-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,6 +467,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
@@ -741,10 +744,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
@@ -759,4 +764,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
