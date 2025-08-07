@@ -89,6 +89,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0213-house-robber-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -131,6 +132,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -437,6 +439,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
