@@ -476,6 +476,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0155-min-stack](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -695,6 +696,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -793,4 +795,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
