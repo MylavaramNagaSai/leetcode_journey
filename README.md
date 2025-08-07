@@ -93,6 +93,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -381,6 +382,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -504,6 +506,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0174-dungeon-game](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
