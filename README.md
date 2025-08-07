@@ -92,6 +92,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -275,6 +276,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -445,6 +447,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -699,6 +702,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -753,6 +757,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
