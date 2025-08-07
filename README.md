@@ -197,6 +197,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0223-rectangle-area) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -705,6 +706,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
