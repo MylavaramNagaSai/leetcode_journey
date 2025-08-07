@@ -587,6 +587,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -619,6 +620,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -651,6 +653,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -682,6 +685,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
 | ------- |
