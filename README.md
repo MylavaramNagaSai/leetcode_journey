@@ -488,6 +488,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -717,6 +718,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0208-implement-trie-prefix-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -820,6 +822,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 ## Probability and Statistics
 |  |
 | ------- |
