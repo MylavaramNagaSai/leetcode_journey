@@ -203,6 +203,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0223-rectangle-area](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -221,6 +222,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0203-remove-linked-list-elements](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -560,6 +562,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0191-number-of-1-bits](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
