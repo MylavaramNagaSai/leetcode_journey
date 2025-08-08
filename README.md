@@ -97,6 +97,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0228-summary-ranges](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -296,6 +297,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -504,6 +506,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0023-merge-k-sorted-lists](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
@@ -840,8 +843,13 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
