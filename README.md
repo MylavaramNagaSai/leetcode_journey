@@ -222,6 +222,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -304,6 +305,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 ## Sliding Window
 |  |
 | ------- |
@@ -480,6 +482,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 ## Sorting
 |  |
 | ------- |
