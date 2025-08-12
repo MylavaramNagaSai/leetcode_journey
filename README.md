@@ -228,6 +228,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -916,4 +917,12 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
