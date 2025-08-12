@@ -106,6 +106,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -347,6 +348,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -445,6 +447,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
