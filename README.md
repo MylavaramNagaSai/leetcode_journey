@@ -211,6 +211,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -563,6 +564,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0059-spiral-matrix-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -819,6 +821,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 ## Segment Tree
 |  |
 | ------- |
