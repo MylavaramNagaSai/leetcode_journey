@@ -221,6 +221,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0263-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -427,6 +428,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -756,6 +758,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
 ## Union Find
 |  |
 | ------- |
