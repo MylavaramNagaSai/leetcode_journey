@@ -101,6 +101,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0260-single-number-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -330,6 +331,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0209-minimum-size-subarray-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
