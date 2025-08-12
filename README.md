@@ -102,6 +102,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0283-move-zeroes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -386,6 +387,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0189-rotate-array](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
