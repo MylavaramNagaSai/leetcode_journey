@@ -143,6 +143,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -290,6 +291,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -480,6 +482,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0217-contains-duplicate](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
