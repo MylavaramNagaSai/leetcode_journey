@@ -213,6 +213,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0263-ugly-number) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
