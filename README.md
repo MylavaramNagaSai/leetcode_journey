@@ -103,6 +103,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -780,6 +781,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -814,6 +816,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
