@@ -105,6 +105,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0283-move-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -576,6 +577,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
@@ -592,6 +594,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0067-add-binary](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
