@@ -408,6 +408,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
