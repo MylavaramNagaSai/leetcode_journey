@@ -155,6 +155,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -314,6 +315,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -832,6 +834,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0169-majority-element](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 ## Iterator
 |  |
 | ------- |
