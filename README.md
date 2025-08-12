@@ -100,6 +100,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -496,6 +497,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -883,4 +885,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
