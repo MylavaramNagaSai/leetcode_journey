@@ -145,6 +145,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -214,6 +215,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -416,6 +418,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -520,6 +523,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0215-kth-largest-element-in-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
