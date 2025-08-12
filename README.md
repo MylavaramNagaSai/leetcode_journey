@@ -154,6 +154,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0290-word-pattern) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -310,6 +311,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0242-valid-anagram](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
