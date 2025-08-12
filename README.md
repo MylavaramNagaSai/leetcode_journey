@@ -313,6 +313,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -669,6 +670,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -706,6 +708,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -743,6 +746,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -778,6 +782,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -796,6 +801,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
