@@ -332,6 +332,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0222-count-complete-tree-nodes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0278-first-bad-version) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -891,4 +892,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
