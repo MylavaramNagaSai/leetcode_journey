@@ -209,6 +209,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0227-basic-calculator-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -230,6 +231,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0231-power-of-two](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -287,6 +289,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -406,6 +409,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0213-house-robber-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -585,6 +589,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
