@@ -119,6 +119,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -480,6 +481,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0312-burst-balloons](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -633,6 +635,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0221-maximal-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
@@ -688,6 +691,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0139-word-break](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -723,6 +727,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0257-binary-tree-paths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -838,6 +843,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0301-remove-invalid-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -868,6 +874,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -954,6 +961,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0207-course-schedule](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
