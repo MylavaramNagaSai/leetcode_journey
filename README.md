@@ -114,6 +114,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0312-burst-balloons](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -330,6 +331,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0301-remove-invalid-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -659,6 +661,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0260-single-number-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
