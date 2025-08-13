@@ -115,6 +115,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0313-super-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -421,6 +422,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0283-move-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -486,6 +488,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0135-candy](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
@@ -575,6 +578,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -626,6 +630,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0084-largest-rectangle-in-histogram](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 ## Simulation
 |  |
 | ------- |
