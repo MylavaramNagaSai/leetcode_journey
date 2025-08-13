@@ -120,6 +120,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0324-wiggle-sort-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -500,6 +501,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
