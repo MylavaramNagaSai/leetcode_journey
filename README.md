@@ -121,6 +121,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -505,6 +506,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0334-increasing-triplet-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
