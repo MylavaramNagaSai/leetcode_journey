@@ -121,6 +121,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
+| [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -249,6 +250,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0313-super-ugly-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -541,6 +543,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
 | ------- |
