@@ -493,6 +493,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -698,6 +699,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0268-missing-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
