@@ -255,6 +255,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0319-bulb-switcher](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -279,6 +280,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0234-palindrome-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -701,6 +703,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0287-find-the-duplicate-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
