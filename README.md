@@ -125,6 +125,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0335-self-crossing](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -179,6 +180,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -392,6 +394,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0300-longest-increasing-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -453,6 +456,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -594,6 +598,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0295-find-median-from-data-stream](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
