@@ -127,6 +127,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -399,6 +400,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -516,6 +518,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0337-house-robber-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0343-integer-break) |
+| [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -605,6 +608,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
