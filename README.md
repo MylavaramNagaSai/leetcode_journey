@@ -269,6 +269,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -790,6 +791,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0332-reconstruct-itinerary](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 ## Tree
 |  |
 | ------- |
@@ -911,6 +913,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 ## Union Find
 |  |
 | ------- |
