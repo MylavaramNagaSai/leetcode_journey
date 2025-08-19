@@ -184,6 +184,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -217,6 +218,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0234-palindrome-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -648,6 +650,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0264-ugly-number-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
@@ -926,6 +929,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0307-range-sum-query-mutable](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
