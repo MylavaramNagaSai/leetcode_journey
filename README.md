@@ -267,6 +267,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0335-self-crossing](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -521,6 +522,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -581,6 +583,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0282-expression-add-operators](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
