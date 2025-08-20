@@ -134,6 +134,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0376-wiggle-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -192,6 +193,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -281,6 +283,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0371-sum-of-two-integers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -967,6 +970,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -1137,4 +1141,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0332-reconstruct-itinerary) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
