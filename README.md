@@ -130,6 +130,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -668,6 +669,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0295-find-median-from-data-stream](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
