@@ -206,6 +206,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -302,6 +303,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1205,8 +1207,10 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
