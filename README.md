@@ -137,6 +137,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -201,6 +202,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -295,6 +297,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1021,6 +1024,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0149-max-points-on-a-line](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1131,6 +1135,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 ## Queue
 |  |
 | ------- |
