@@ -580,6 +580,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0377-combination-sum-iv](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
@@ -603,6 +604,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0330-patching-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
@@ -816,6 +818,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0371-sum-of-two-integers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
@@ -826,6 +829,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0140-word-break-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
