@@ -204,6 +204,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -405,6 +406,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -416,6 +418,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0219-contains-duplicate-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -471,6 +474,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
