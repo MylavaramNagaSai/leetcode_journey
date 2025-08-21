@@ -138,6 +138,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -804,6 +805,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
