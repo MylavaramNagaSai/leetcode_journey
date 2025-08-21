@@ -197,6 +197,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -388,6 +389,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1019,6 +1021,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0229-majority-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 ## Iterator
 |  |
 | ------- |
