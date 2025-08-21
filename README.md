@@ -593,6 +593,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0211-design-add-and-search-words-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -840,6 +841,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
