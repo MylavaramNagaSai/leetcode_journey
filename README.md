@@ -395,6 +395,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -688,6 +689,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
@@ -844,6 +846,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
 ## Tree
 |  |
 | ------- |
