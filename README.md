@@ -140,6 +140,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -411,6 +412,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -875,6 +877,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 ## Tree
 |  |
 | ------- |
@@ -997,12 +1000,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0322-coin-change](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 ## Design
 |  |
 | ------- |
@@ -1035,6 +1040,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0310-minimum-height-trees](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1213,4 +1219,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
