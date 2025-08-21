@@ -305,6 +305,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0391-perfect-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0400-nth-digit) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -456,6 +457,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0367-valid-perfect-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0400-nth-digit) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
