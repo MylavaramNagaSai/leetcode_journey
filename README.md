@@ -231,6 +231,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0237-delete-node-in-a-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +289,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1155,4 +1157,9 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
