@@ -325,6 +325,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0241-different-ways-to-add-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -403,6 +404,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -700,6 +702,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
