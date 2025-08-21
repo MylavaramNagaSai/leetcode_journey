@@ -199,6 +199,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -393,6 +394,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0345-reverse-vowels-of-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1030,6 +1032,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0299-bulls-and-cows](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Iterator
 |  |
 | ------- |
@@ -1128,6 +1131,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0232-implement-queue-using-stacks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
