@@ -139,6 +139,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -553,6 +554,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0377-combination-sum-iv](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0377-combination-sum-iv) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -675,6 +677,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
+| [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -727,6 +730,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
 |  |
@@ -736,6 +740,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0085-maximal-rectangle](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
+| [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
