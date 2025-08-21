@@ -200,6 +200,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -396,6 +397,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0385-mini-parser](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -659,6 +661,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0354-russian-doll-envelopes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -794,6 +797,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0338-counting-bits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
