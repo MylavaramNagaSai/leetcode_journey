@@ -308,6 +308,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -417,6 +418,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -835,6 +837,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
