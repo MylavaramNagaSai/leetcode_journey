@@ -141,6 +141,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0403-frog-jump) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -589,6 +590,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0403-frog-jump) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
