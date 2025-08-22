@@ -654,6 +654,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0301-remove-invalid-parentheses](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
@@ -827,6 +828,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
