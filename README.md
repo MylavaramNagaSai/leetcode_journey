@@ -151,6 +151,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -781,6 +782,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Monotonic Stack
@@ -1126,6 +1128,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
 |  |
 | ------- |
