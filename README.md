@@ -143,6 +143,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -744,6 +745,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
@@ -782,6 +784,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1024,6 +1027,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0365-water-and-jug-problem](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 ## Union Find
 |  |
 | ------- |
