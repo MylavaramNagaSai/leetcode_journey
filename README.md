@@ -142,6 +142,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0396-rotate-function](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -695,6 +696,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0368-largest-divisible-subset](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -1141,6 +1143,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0307-range-sum-query-mutable](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1180,6 +1183,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0307-range-sum-query-mutable](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
 ## Line Sweep
 |  |
 | ------- |
