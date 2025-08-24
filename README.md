@@ -318,6 +318,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0400-nth-digit](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -430,6 +431,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -828,6 +830,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
