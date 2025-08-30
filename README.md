@@ -147,6 +147,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0416-partition-equal-subset-sum) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -611,6 +612,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0403-frog-jump](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
