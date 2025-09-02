@@ -150,6 +150,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0416-partition-equal-subset-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -623,6 +624,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -651,6 +653,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
@@ -729,6 +732,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0389-find-the-difference](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
