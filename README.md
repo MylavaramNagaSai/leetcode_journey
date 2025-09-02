@@ -223,6 +223,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -440,6 +441,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1065,6 +1067,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 ## Union Find
 |  |
 | ------- |
