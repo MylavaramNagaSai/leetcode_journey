@@ -222,6 +222,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -257,6 +258,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0328-odd-even-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
@@ -1092,6 +1094,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0380-insert-delete-getrandom-o1](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Graph
 |  |
@@ -1107,6 +1110,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
 |  |
