@@ -257,6 +257,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0328-odd-even-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0382-linked-list-random-node) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -933,6 +934,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -1105,6 +1107,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
 |  |
 | ------- |
