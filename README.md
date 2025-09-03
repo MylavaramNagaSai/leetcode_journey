@@ -673,6 +673,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0212-word-search-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Backtracking
 |  |
 | ------- |
