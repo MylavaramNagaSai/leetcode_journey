@@ -227,6 +227,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Linked List
@@ -447,6 +448,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,6 +462,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0239-sliding-window-maximum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
