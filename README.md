@@ -152,6 +152,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -335,6 +336,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -748,6 +750,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0414-third-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
