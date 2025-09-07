@@ -154,6 +154,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
@@ -334,6 +335,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
