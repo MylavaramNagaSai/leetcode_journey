@@ -457,6 +457,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0466-count-the-repetitions](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0466-count-the-repetitions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -641,6 +642,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
+| [0466-count-the-repetitions](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0466-count-the-repetitions) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
