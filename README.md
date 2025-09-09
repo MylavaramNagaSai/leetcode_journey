@@ -155,6 +155,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -650,6 +651,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0466-count-the-repetitions](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -725,6 +727,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0306-additive-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
@@ -920,6 +923,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
@@ -1353,4 +1357,8 @@ This is my personal repository to track and share my journey solving LeetCode pr
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
