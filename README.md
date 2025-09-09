@@ -154,6 +154,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -461,6 +462,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0466-count-the-repetitions](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -647,6 +649,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -690,6 +693,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0336-palindrome-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -759,6 +763,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -974,6 +979,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0417-pacific-atlantic-water-flow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
