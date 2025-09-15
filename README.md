@@ -342,6 +342,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
@@ -519,6 +520,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
+| [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
