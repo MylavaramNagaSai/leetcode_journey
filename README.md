@@ -467,6 +467,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0468-validate-ip-address](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0482-license-key-formatting) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Sliding Window
 |  |
