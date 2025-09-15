@@ -158,6 +158,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -344,6 +345,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
@@ -375,6 +377,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0326-power-of-three](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -661,6 +664,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1336,6 +1340,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
 | ------- |
