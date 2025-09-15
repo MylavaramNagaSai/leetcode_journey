@@ -157,6 +157,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
