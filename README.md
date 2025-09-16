@@ -168,6 +168,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -350,6 +351,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -816,6 +818,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1249,6 +1252,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Segment Tree
 |  |
 | ------- |
