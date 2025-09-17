@@ -160,6 +160,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0485-max-consecutive-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -538,6 +539,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -563,6 +565,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -855,6 +858,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0148-sort-list](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -1277,6 +1281,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -1287,6 +1292,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
@@ -1319,6 +1325,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0315-count-of-smaller-numbers-after-self](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 ## Line Sweep
 |  |
 | ------- |
