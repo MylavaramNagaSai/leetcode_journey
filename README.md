@@ -170,6 +170,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1927-maximum-ascending-subarray-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -242,6 +243,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -480,6 +482,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0482-license-key-formatting](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0482-license-key-formatting) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -839,6 +842,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
@@ -1168,6 +1172,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 ## Graph
 |  |
 | ------- |
@@ -1277,6 +1282,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0327-count-of-range-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
