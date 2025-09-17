@@ -354,6 +354,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0492-construct-the-rectangle) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
