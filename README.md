@@ -159,6 +159,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -240,6 +241,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0460-lfu-cache) |
+| [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -751,6 +753,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0357-count-numbers-with-unique-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
@@ -949,6 +952,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0461-hamming-distance) |
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
