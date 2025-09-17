@@ -161,6 +161,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -681,6 +682,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -758,6 +760,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0401-binary-watch](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 ## Sorting
 |  |
