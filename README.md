@@ -372,6 +372,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -495,6 +496,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
+| [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -1384,12 +1386,14 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0319-bulb-switcher) |
+| [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
+| [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
