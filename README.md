@@ -162,6 +162,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0495-teemo-attacking) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -924,6 +925,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0289-game-of-life](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0495-teemo-attacking) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
