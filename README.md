@@ -163,6 +163,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -245,6 +246,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -837,6 +839,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0388-longest-absolute-file-path](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
@@ -912,6 +915,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0316-remove-duplicate-letters](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
