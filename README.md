@@ -166,6 +166,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -729,6 +730,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0409-longest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
@@ -816,6 +818,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0436-find-right-interval](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
+| [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
@@ -868,6 +871,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0407-trapping-rain-water-ii) |
+| [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
