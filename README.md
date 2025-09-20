@@ -1043,6 +1043,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -1086,6 +1087,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0337-house-robber-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1127,6 +1129,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1139,6 +1142,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0173-binary-search-tree-iterator](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
