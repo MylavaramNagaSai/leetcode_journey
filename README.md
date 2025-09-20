@@ -165,6 +165,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0495-teemo-attacking](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -250,6 +251,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0460-lfu-cache](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -495,6 +497,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
