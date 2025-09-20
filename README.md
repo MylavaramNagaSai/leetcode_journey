@@ -186,6 +186,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3678-design-task-manager](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -553,6 +555,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1202,6 +1205,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 ## Graph
 |  |
 | ------- |
@@ -1317,6 +1321,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1363,6 +1368,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0341-flatten-nested-list-iterator](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
 ## Probability and Statistics
 |  |
 | ------- |
