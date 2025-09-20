@@ -167,6 +167,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -855,6 +856,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0394-decode-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Heap (Priority Queue)
@@ -933,6 +935,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0321-create-maximum-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
