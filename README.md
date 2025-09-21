@@ -373,6 +373,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0486-predict-the-winner](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
