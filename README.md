@@ -1306,6 +1306,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0196-delete-duplicate-emails](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0262-trips-and-users) |
+| [1179-game-play-analysis-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1179-game-play-analysis-i) |
 ## Rolling Hash
 |  |
 | ------- |
