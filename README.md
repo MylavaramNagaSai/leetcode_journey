@@ -190,6 +190,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3827-implement-router) |
@@ -973,6 +974,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
@@ -1389,6 +1391,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Quickselect
 |  |
 | ------- |
