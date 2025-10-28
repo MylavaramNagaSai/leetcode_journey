@@ -1066,6 +1066,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -1111,6 +1112,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1154,6 +1156,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0404-sum-of-left-leaves](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
+| [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1202,6 +1205,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0417-pacific-atlantic-water-flow](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
+| [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 ## Union Find
 |  |
 | ------- |
