@@ -169,6 +169,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0506-relative-ranks) |
+| [0517-super-washing-machines](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0517-super-washing-machines) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -746,6 +747,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0517-super-washing-machines) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
