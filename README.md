@@ -1070,6 +1070,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -1116,6 +1117,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1160,6 +1162,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0501-find-mode-in-binary-search-tree](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1210,6 +1213,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Union Find
 |  |
 | ------- |
