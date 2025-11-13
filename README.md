@@ -170,6 +170,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0503-next-greater-element-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0518-coin-change-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -716,6 +717,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0494-target-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0518-coin-change-ii) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
