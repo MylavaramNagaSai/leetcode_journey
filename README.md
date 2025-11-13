@@ -522,6 +522,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -756,6 +757,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0517-super-washing-machines) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Trie
 |  |
 | ------- |
@@ -1307,6 +1309,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0347-top-k-frequent-elements](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0387-first-unique-character-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Iterator
 |  |
