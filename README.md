@@ -516,6 +516,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0504-base-7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0520-detect-capital) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
