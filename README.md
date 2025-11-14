@@ -171,6 +171,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0506-relative-ranks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
@@ -260,6 +261,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0496-next-greater-element-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0913-random-flip-matrix](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0913-random-flip-matrix) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -518,6 +520,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0516-longest-palindromic-subsequence](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -645,6 +648,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0349-intersection-of-two-arrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -846,6 +850,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0472-concatenated-words](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
