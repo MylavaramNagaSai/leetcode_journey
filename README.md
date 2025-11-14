@@ -191,6 +191,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
+| [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -965,6 +966,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
+| [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1417,6 +1419,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Quickselect
 |  |
