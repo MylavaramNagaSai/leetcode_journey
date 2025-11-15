@@ -176,6 +176,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0526-beautiful-arrangement](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0526-beautiful-arrangement) |
 | [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -269,6 +270,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0508-most-frequent-subtree-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0913-random-flip-matrix](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0913-random-flip-matrix) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -589,6 +591,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -661,6 +664,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0392-is-subsequence](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0392-is-subsequence) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -866,6 +870,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0506-relative-ranks](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
