@@ -176,6 +176,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0526-beautiful-arrangement](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
+| [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -390,6 +391,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1013-fibonacci-number) |
@@ -586,6 +588,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0441-arranging-coins](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
+| [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3790-fruits-into-baskets-ii) |
@@ -1418,6 +1421,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
+| [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1499,6 +1503,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
+| [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0913-random-flip-matrix](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0913-random-flip-matrix) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
