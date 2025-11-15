@@ -541,6 +541,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -558,6 +559,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0413-arithmetic-slices](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -1392,6 +1394,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Number Theory
 |  |
 | ------- |
