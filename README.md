@@ -195,6 +195,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -402,6 +403,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
@@ -1396,6 +1398,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0204-count-primes](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Segment Tree
 |  |
 | ------- |
