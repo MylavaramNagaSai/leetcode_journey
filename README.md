@@ -175,6 +175,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0526-beautiful-arrangement](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -967,6 +968,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0419-battleships-in-a-board](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1628-count-submatrices-with-all-ones) |
 | [2625-increment-submatrices-by-one](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2625-increment-submatrices-by-one) |
@@ -1106,6 +1108,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -1249,6 +1252,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0513-find-bottom-left-tree-value](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 ## Union Find
 |  |
 | ------- |
