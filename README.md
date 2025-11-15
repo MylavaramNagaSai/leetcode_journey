@@ -271,6 +271,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0913-random-flip-matrix](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0913-random-flip-matrix) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -533,6 +534,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0521-longest-uncommon-subsequence-i](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -1294,6 +1296,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0384-shuffle-an-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -1379,6 +1382,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 ## Enumeration
 |  |
 | ------- |
