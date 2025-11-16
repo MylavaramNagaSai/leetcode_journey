@@ -405,6 +405,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -546,6 +547,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0541-reverse-string-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/MylavaramSaei/leetcode_journey/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
