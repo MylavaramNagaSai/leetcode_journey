@@ -177,6 +177,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0526-beautiful-arrangement](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0526-beautiful-arrangement) |
 | [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -394,6 +395,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0507-perfect-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
@@ -539,6 +541,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -879,6 +882,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
