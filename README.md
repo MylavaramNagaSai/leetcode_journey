@@ -543,6 +543,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
+| [0541-reverse-string-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0541-reverse-string-ii) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -678,6 +679,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
