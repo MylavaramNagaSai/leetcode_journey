@@ -393,6 +393,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0504-base-7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0903-implement-rand10-using-rand7) |
@@ -537,6 +538,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0522-longest-uncommon-subsequence-ii](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0535-encode-and-decode-tinyurl) |
+| [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
 | [1006-vowel-spellchecker](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MylavaramSaei/leetcode_journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2429-design-a-food-rating-system) |
@@ -1012,6 +1014,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0415-add-strings](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0537-complex-number-multiplication) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MylavaramSaei/leetcode_journey/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/3600-find-the-k-th-character-in-string-game-i) |
