@@ -178,6 +178,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0529-minesweeper](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0679-24-game](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0679-24-game) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -603,6 +604,7 @@ This is my personal repository to track and share my journey solving LeetCode pr
 | [0483-smallest-good-base](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-random-pick-with-weight](https://github.com/MylavaramNagaSai/leetcode_journey/tree/master/0912-random-pick-with-weight) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/MylavaramSaei/leetcode_journey/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/MylavaramSaei/LeetCode_Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
